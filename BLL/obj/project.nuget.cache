@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fvFNASgHRg=",
+  "dgSpecHash": "vkMOQa/nMmA=",
   "success": true,
-  "projectFilePath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\BLL\\BLL.csproj",
+  "projectFilePath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mcara\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\mcara\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

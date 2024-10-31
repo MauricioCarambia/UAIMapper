@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Mapper\\Mapper.csproj",
+      "projectUniqueName": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Mapper\\Mapper.csproj",
       "projectName": "Mapper",
-      "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Mapper\\Mapper.csproj",
+      "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Mapper\\Mapper.csproj",
       "packagesPath": "C:\\Users\\mcara\\.nuget\\packages\\",
-      "outputPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Mapper\\obj\\",
+      "outputPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Mapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mcara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -512,8 +512,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\Entity.csproj": {
-              "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\Entity.csproj"
+            "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\Entity.csproj": {
+              "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\Entity.csproj"
             }
           }
         }

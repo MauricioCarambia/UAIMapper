@@ -717,11 +717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\UI\\UI.csproj",
+      "projectUniqueName": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\UI\\UI.csproj",
+      "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\mcara\\.nuget\\packages\\",
-      "outputPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\UI\\obj\\",
+      "outputPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mcara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -738,11 +738,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\BLL\\BLL.csproj": {
-              "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\BLL\\BLL.csproj"
+            "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\BLL\\BLL.csproj": {
+              "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\BLL\\BLL.csproj"
             },
-            "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\Entity.csproj": {
-              "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\Entity.csproj"
+            "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\Entity.csproj": {
+              "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\Entity.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\Entity.csproj",
+      "projectUniqueName": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\Entity.csproj",
+      "projectPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\mcara\\.nuget\\packages\\",
-      "outputPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\PrimerParcial_Mapper\\Entity\\obj\\",
+      "outputPath": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mcara\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -84,18 +84,25 @@ namespace BLL
         {
             try
             {
-                using (var trx = new TransactionScope())
-                {
-                    DateTime fechaPartido = partidoData.ObtenerFechaPartido(idPartido);
+                
+                    DateTime? fechaPartido = partidoData.ObtenerFechaPartido(idPartido);
 
-                    if (fechaPartido.Date != DateTime.Today)
+                    
+                    Partido seleccionado = ObtenerId(idPartido);
+                    if (seleccionado == null)
                     {
-                        throw new Exception("No se puede modificar partidos el mismo dia del partido");
+                        throw new Exception("No existe ese partido");
+                    }
+                    if (!fechaPartido.HasValue || fechaPartido.Value.Date != DateTime.Today)
+                    {
+                        throw new Exception("Se puede modificar partidos el mismo dia del partido");
                     }
                     if (marcadorLocal < 0 || marcadorVisitante < 0)
                     {
                         throw new Exception("El valor del marcador no puede ser menor a 0");
                     }
+                using (var trx = new TransactionScope())
+                {
                     partidoData.ModificarPartido(idPartido, marcadorLocal, marcadorVisitante);
                     trx.Complete();
                 }
@@ -127,6 +134,17 @@ namespace BLL
                 throw;
             }
         }
-      
+        private Partido ObtenerId(int idPartido)
+        {
+            try
+            {
+                return partidoData.ObtenerId(idPartido);
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
     }
 }

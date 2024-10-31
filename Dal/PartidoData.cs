@@ -127,7 +127,7 @@ namespace Dal
                 throw;
             }
         }
-        public DateTime ObtenerFechaPartido(int idPartido)
+        public DateTime? ObtenerFechaPartido(int idPartido)
         {
             SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ParcialDBConnection"].ConnectionString);
             try
@@ -139,8 +139,18 @@ namespace Dal
                     using (cmd)
                     {
                         cmd.Parameters.AddWithValue("@idPartido", idPartido);
-                        DateTime result = (DateTime)cmd.ExecuteScalar();
-                        return result;
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            if (reader.Read()) // Verifica si hay una fila en el resultado
+                            {
+                                return reader.GetDateTime(0); // Obtén el valor de FECHA_PARTIDO
+                            }
+                            else
+                            {
+                                // Si no hay filas, el partido no existe
+                                return null;
+                            }
+                        }
                     }
                 }
             }
@@ -150,6 +160,39 @@ namespace Dal
                 throw;
             }
             
+        }
+
+        public Partido ObtenerId(int id)
+        {
+            try
+            {
+                string conectionString = ConfigurationManager.ConnectionStrings["ParcialDBConnection"].ConnectionString;
+
+                using (SqlConnection con = new SqlConnection(conectionString))
+                {
+                    con.Open();
+                    string query = "SELECT * FROM Partido WHERE ID_PARTIDO = @ID_PARTIDO";
+                    using (SqlCommand command = new SqlCommand(query, con))
+                    {
+                        command.Parameters.AddWithValue("@ID_PARTIDO", id);
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                int idDeporte = Convert.ToInt32(reader["ID_DEPORTE"].ToString());
+                                Deporte deporte = deporteData.ObtenerId(idDeporte);
+                                Partido partido = PartidoMapper.Map(reader, deporte);
+                                return partido;
+                            }
+                        }
+                    }
+                }
+                return null;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
         }
 
     }
