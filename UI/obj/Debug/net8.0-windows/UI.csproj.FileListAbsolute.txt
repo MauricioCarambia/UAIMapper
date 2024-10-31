@@ -1,0 +1,97 @@
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\UI.exe
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\UI.dll.config
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\UI.deps.json
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\UI.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\UI.pdb
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\BLL.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\Dal.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\Entity.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\BLL.pdb
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\Entity.pdb
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\bin\Debug\net8.0-windows\Dal.pdb
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\refint\UI.dll
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.pdb
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+E:\UAI\LUG\PrimerParcial_Carambia_Mauricio\UI\obj\Debug\net8.0-windows\ref\UI.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.exe
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.dll.config
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.deps.json
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.pdb
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\BLL.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Dal.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Entity.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\BLL.pdb
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Entity.pdb
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Dal.pdb
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\refint\UI.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.pdb
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+E:\UAI\LUG\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\ref\UI.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Mapper.dll
+E:\UAI\LUG\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Mapper.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.exe
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.dll.config
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.deps.json
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\UI.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\BLL.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Dal.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Entity.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Mapper.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\BLL.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Entity.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Dal.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\bin\Debug\net8.0-windows\Mapper.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\refint\UI.dll
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.pdb
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+E:\UAI\LUG\Itinerario 11 - Patron mapper\PrimerParcial_Mapper\UI\obj\Debug\net8.0-windows\ref\UI.dll
