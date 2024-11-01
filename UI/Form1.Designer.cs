@@ -93,7 +93,7 @@
             btnBorrador.Location = new Point(0, 209);
             btnBorrador.Name = "btnBorrador";
             btnBorrador.Size = new Size(113, 37);
-            btnBorrador.TabIndex = 9;
+            btnBorrador.TabIndex = 4;
             btnBorrador.Text = "Borrador";
             btnBorrador.UseVisualStyleBackColor = true;
             btnBorrador.Click += btnBorrador_Click;
@@ -103,7 +103,7 @@
             dtpFechaPartido.Location = new Point(11, 180);
             dtpFechaPartido.Name = "dtpFechaPartido";
             dtpFechaPartido.Size = new Size(200, 23);
-            dtpFechaPartido.TabIndex = 8;
+            dtpFechaPartido.TabIndex = 3;
             // 
             // cmbDeporte
             // 
@@ -111,21 +111,21 @@
             cmbDeporte.Location = new Point(11, 39);
             cmbDeporte.Name = "cmbDeporte";
             cmbDeporte.Size = new Size(150, 23);
-            cmbDeporte.TabIndex = 7;
+            cmbDeporte.TabIndex = 0;
             // 
             // txtEquipoLocal
             // 
             txtEquipoLocal.Location = new Point(11, 83);
             txtEquipoLocal.Name = "txtEquipoLocal";
             txtEquipoLocal.Size = new Size(150, 23);
-            txtEquipoLocal.TabIndex = 6;
+            txtEquipoLocal.TabIndex = 1;
             // 
             // txtEquipoVisitante
             // 
             txtEquipoVisitante.Location = new Point(11, 131);
             txtEquipoVisitante.Name = "txtEquipoVisitante";
             txtEquipoVisitante.Size = new Size(150, 23);
-            txtEquipoVisitante.TabIndex = 5;
+            txtEquipoVisitante.TabIndex = 2;
             // 
             // label4
             // 
@@ -168,7 +168,7 @@
             btnAgregar.Location = new Point(119, 209);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(113, 37);
-            btnAgregar.TabIndex = 0;
+            btnAgregar.TabIndex = 5;
             btnAgregar.Text = "Confirmar";
             btnAgregar.UseVisualStyleBackColor = true;
             btnAgregar.Click += btnAgregar_Click_1;
@@ -178,7 +178,7 @@
             txtIdModificar.Location = new Point(11, 45);
             txtIdModificar.Name = "txtIdModificar";
             txtIdModificar.Size = new Size(150, 23);
-            txtIdModificar.TabIndex = 7;
+            txtIdModificar.TabIndex = 6;
             // 
             // groupBox2
             // 
@@ -210,7 +210,7 @@
             txtMarcadorVisitante.Location = new Point(11, 141);
             txtMarcadorVisitante.Name = "txtMarcadorVisitante";
             txtMarcadorVisitante.Size = new Size(150, 23);
-            txtMarcadorVisitante.TabIndex = 11;
+            txtMarcadorVisitante.TabIndex = 8;
             // 
             // label7
             // 
@@ -226,7 +226,7 @@
             txtMarcadorLocal.Location = new Point(11, 97);
             txtMarcadorLocal.Name = "txtMarcadorLocal";
             txtMarcadorLocal.Size = new Size(150, 23);
-            txtMarcadorLocal.TabIndex = 9;
+            txtMarcadorLocal.TabIndex = 7;
             // 
             // label5
             // 
@@ -242,7 +242,7 @@
             btnModificar.Location = new Point(112, 170);
             btnModificar.Name = "btnModificar";
             btnModificar.Size = new Size(126, 37);
-            btnModificar.TabIndex = 0;
+            btnModificar.TabIndex = 9;
             btnModificar.Text = "Modificar";
             btnModificar.UseVisualStyleBackColor = true;
             btnModificar.Click += btnModificar_Click_1;
@@ -264,7 +264,7 @@
             txtIdEliminar.Location = new Point(11, 59);
             txtIdEliminar.Name = "txtIdEliminar";
             txtIdEliminar.Size = new Size(150, 23);
-            txtIdEliminar.TabIndex = 2;
+            txtIdEliminar.TabIndex = 10;
             // 
             // label6
             // 
@@ -280,7 +280,7 @@
             btnEliminar.Location = new Point(112, 108);
             btnEliminar.Name = "btnEliminar";
             btnEliminar.Size = new Size(126, 37);
-            btnEliminar.TabIndex = 0;
+            btnEliminar.TabIndex = 11;
             btnEliminar.Text = "Eliminar";
             btnEliminar.UseVisualStyleBackColor = true;
             btnEliminar.Click += btnEliminar_Click;
