@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{5B0A89D0-F864-4451-8001-E5F3998321FE}|Dal\\Dal.csproj|solutionrelative:dal\\partidodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{066EFB27-56E7-4ED8-BFF0-F1CD96C3C62F}|UI\\UI.csproj|e:\\uai\\lug\\itinerario 11 - patron mapper\\uaimapper\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{066EFB27-56E7-4ED8-BFF0-F1CD96C3C62F}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18EFF344-6FCF-43CE-B04F-B4BB0C26DD3D}|Mapper\\Mapper.csproj|e:\\uai\\lug\\itinerario 11 - patron mapper\\uaimapper\\mapper\\partidomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EFF344-6FCF-43CE-B04F-B4BB0C26DD3D}|Mapper\\Mapper.csproj|solutionrelative:mapper\\partidomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{066EFB27-56E7-4ED8-BFF0-F1CD96C3C62F}|UI\\UI.csproj|e:\\uai\\lug\\itinerario 11 - patron mapper\\uaimapper\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{066EFB27-56E7-4ED8-BFF0-F1CD96C3C62F}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066EFB27-56E7-4ED8-BFF0-F1CD96C3C62F}|UI\\UI.csproj|e:\\uai\\lug\\itinerario 11 - patron mapper\\uaimapper\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066EFB27-56E7-4ED8-BFF0-F1CD96C3C62F}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartidoMapper.cs",
+              "DocumentMoniker": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Mapper\\PartidoMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\PartidoMapper.cs",
+              "ToolTip": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Mapper\\PartidoMapper.cs",
+              "RelativeToolTip": "Mapper\\PartidoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:10:32.695Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "UI\\Form1.cs",
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "Dal\\PartidoData.cs",
               "ToolTip": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\Dal\\PartidoData.cs",
               "RelativeToolTip": "Dal\\PartidoData.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAADwv30AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAqwEgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T18:20:50.867Z",
               "EditorCaption": ""
@@ -70,7 +87,7 @@
               "RelativeDocumentMoniker": "BLL\\PartidoBusiness.cs",
               "ToolTip": "E:\\UAI\\LUG\\Itinerario 11 - Patron mapper\\UAIMapper\\BLL\\PartidoBusiness.cs",
               "RelativeToolTip": "BLL\\PartidoBusiness.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAmwGgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowGgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T18:15:38.073Z",
               "EditorCaption": ""
